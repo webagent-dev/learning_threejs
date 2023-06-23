@@ -1,0 +1,14 @@
+{
+  "name": "learning_threejs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/webagent-dev/learning_threejs.git",
+  "author": "webagent-dev <webagent24@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "three": "^0.153.0"
+  },
+  "devDependencies": {
+    "vite": "^4.3.9"
+  }
+}
